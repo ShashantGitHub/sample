@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>bookyourmedicalappointmentonlineusi</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>Ceptes Medi Care</label>
+    <navType>Standard</navType>
+    <tabs>Doctor__c</tabs>
+    <tabs>Patients__c</tabs>
+    <tabs>Appointment__c</tabs>
+    <tabs>Timeslots__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Doctor_Appointment_UtilityBar</utilityBar>
+</CustomApplication>
